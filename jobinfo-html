@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Job Info</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+    <header>
+        <h1>Job Information</h1>
+        <h3>50$/hr, $99,000 annual</h3>
+        <h3>139,400 employees</h3>
+        <p>Hard job to do</p>
+    </header>
+    
+    <main>
+        <p>Written Comprehension — The ability to read and understand information and ideas presented in writing.</p>
+        <p>Near Vision — The ability to see details at close range (within a few feet of the observer).</p>
+        <p>Oral Comprehension — The ability to listen to and understand information and ideas presented through spoken words and sentences.</p>
+        <p>Deductive Reasoning — The ability to apply general rules to specific problems to produce answers that make sense.</p>
+        <p>Inductive Reasoning — The ability to combine pieces of information to form general rules or conclusions (includes finding a relationship among seemingly unrelated pieces of information).</p>
+        
+        <h3>Key Skills Required</h3>
+        <ul>
+            <li>Attention to Detail — Job requires being careful about detail and thorough in completing work tasks.</li>
+            <li>Analytical Thinking — Job requires analyzing information and using logic to address work-related issues and problems.</li>
+            <li>Integrity — Job requires being honest and ethical.</li>
+            <li>Cooperation — Job requires being pleasant with others on the job and displaying a good-natured, cooperative attitude.</li>
+            <li>Independence — Job requires developing one's own ways of doing things, guiding oneself with little or no supervision, and depending on oneself to get things done.</li>
+        </ul>
+        <h3>Related Careers</h3>
+        <ul>
+            <li>
+                <span class="job-title">Software Engineer:</span> designs and develops software applications to meet user needs.
+            </li>
+            <li>
+                <span class="job-title">Web Developer:</span> creates and maintains websites, ensuring they are functional and user-friendly.
+            </li>
+            <li>
+                <span class="job-title">Data Analyst:</span> interprets complex data to help organizations make informed decisions.
+            </li>
+        </ul>
+    </main>
+    
+    <footer>
+        <a href="index.html">Home</a> | 
+        <a href="milestones.html">Steps to Goal</a>
+    </footer>
+</body>
+</html>
